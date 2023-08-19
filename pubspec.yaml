@@ -27,7 +27,7 @@ dependencies:
   package_info_plus: ^4.0.1
 
   # From Flutter Team: Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android).
-  shared_preferences: ^2.1.1
+  shared_preferences: ^2.0.17
 
   # From Flutter Team: A Flutter plugin for launching a URL in the mobile platform.
   url_launcher: ^6.1.11
